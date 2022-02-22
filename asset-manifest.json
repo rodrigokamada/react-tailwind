@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-tailwind/static/css/main.15173a66.css",
-    "main.js": "/react-tailwind/static/js/main.a55104b7.js",
+    "main.css": "/react-tailwind/static/css/main.6325ffb4.css",
+    "main.js": "/react-tailwind/static/js/main.6473dd81.js",
     "static/js/787.d9fdfb85.chunk.js": "/react-tailwind/static/js/787.d9fdfb85.chunk.js",
-    "static/media/logo.svg": "/react-tailwind/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-tailwind/index.html",
-    "main.15173a66.css.map": "/react-tailwind/static/css/main.15173a66.css.map",
-    "main.a55104b7.js.map": "/react-tailwind/static/js/main.a55104b7.js.map",
+    "main.6325ffb4.css.map": "/react-tailwind/static/css/main.6325ffb4.css.map",
+    "main.6473dd81.js.map": "/react-tailwind/static/js/main.6473dd81.js.map",
     "787.d9fdfb85.chunk.js.map": "/react-tailwind/static/js/787.d9fdfb85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15173a66.css",
-    "static/js/main.a55104b7.js"
+    "static/css/main.6325ffb4.css",
+    "static/js/main.6473dd81.js"
   ]
 }
