@@ -1,6 +1,7 @@
 {
   "name": "react-tailwind",
   "version": "1.0.0",
+  "homepage": "https://rodrigokamada.github.io/react-tailwind/",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
   "private": true,
