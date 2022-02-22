@@ -363,3 +363,25 @@ webpack 5.69.1 compiled successfully in 3211 ms
 ```
 
 **10.** Ready! Access the URL `http://localhost:300/react-tailwind` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/react-tailwind/) and [Stackblitz](https://stackblitz.com/edit/react17-tailwind).
+
+
+
+## Cloning the application
+
+**1.** Clone the repository.
+
+```shell
+git clone git@github.com:rodrigokamada/react-tailwind.git
+```
+
+**2.** Install the dependencies.
+
+```shell
+npm ci
+```
+
+**3.** Run the application.
+
+```shell
+npm start
+```
